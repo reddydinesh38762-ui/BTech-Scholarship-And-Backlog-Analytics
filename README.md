@@ -19,3 +19,16 @@ An end-to-end relational database and SQL analytics project tracking **50 B.Tech
 1. Execute `01_database_setup.sql` in **MySQL Workbench** to create the `btech_scholarship_analytics` schema and populate the 50-student dataset.
 2. Run `02_audit_and_analytics_queries.sql` to generate the audit reports and leaderboards.
 
+## 📊 Visual Analytics & Dashboard Previews
+
+### 1. Dashboard Overview & Chart Analysis
+![Chart 1](Screenshot%202026-11-11%20104208.png)
+
+### 2. Scholarship & Backlog Insights
+![Chart 2](Screenshot%202026-11-11%20104231.png)
+
+### 3. Department & Study Year Breakdown
+![Chart 3](Screenshot%202026-11-11%20104240.png)
+
+### 4. Complete Data Summary
+![Chart 4](Screenshot%202026-11-11%20104246.png)
